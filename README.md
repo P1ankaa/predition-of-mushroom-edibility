@@ -1,6 +1,6 @@
 # Predykcja Zjadalności Grzybów (Mushroom Edibility Prediction)
 
-Ten projekt to model uczenia maszynowego służący do klasyfikacji grzybów jako jadalne lub trujące na podstawie cech opisowych ze zbioru danych **Mushroom Data Set**. Celem jest predykcja, czy dany grzyb jest bezpieczny do spożycia.
+Ten projekt to model uczenia maszynowego służący do klasyfikacji grzybów jako jadalne lub trujące na podstawie cech opisowych ze zbioru danych **Mushroom Data Set**. Celem jest predykcja, czy dany grzyb jest bezpieczny do spożycia. Do predykcji został wykorzystany algorytm losowych lasów (Random Forest Classificator).
 
 ## 📊 Wykorzystane narzędzia
 
