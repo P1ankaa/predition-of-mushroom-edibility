@@ -15,6 +15,7 @@ Ten projekt to model uczenia maszynowego służący do klasyfikacji grzybów jak
 
 - `Model predykcji zjadalności grzybów.ipynb` – główny notebook z kodem
 - `README.md` – ten plik, zawierający opis projektu
+- `agaricus-lepiota.data` - plik z danymi użytymi do trenowania i testowania modelu
 
 ## 📈 Wyniki
 
